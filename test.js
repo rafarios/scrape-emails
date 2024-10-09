@@ -1,7 +1,7 @@
-import { scrapeEmails } from "./scrape-emails.js";
+import { scrape } from "./scrape.js";
 
 const url = "https://nethunt.com/blog/how-to-choose-professional-email-address/";
 
 (async () => {
-  console.log(await scrapeEmails(url));
+  console.log(await scrape(url));
 })()
