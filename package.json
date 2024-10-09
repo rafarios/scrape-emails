@@ -1,0 +1,21 @@
+{
+  "name": "@rafarios/scrape_emails",
+  "version": "1.0.0",
+  "main": "scrape_emails.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "author": "rafarios",
+  "license": "ISC",
+  "description": "Scrape emails from url",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafarios/scrapeEmails.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rafarios/scrapeEmails/issues"
+  },
+  "homepage": "https://github.com/rafarios/scrapeEmails#readme"
+}
