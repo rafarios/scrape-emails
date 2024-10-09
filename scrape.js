@@ -1,4 +1,4 @@
-// scrape emails from url
+// scrape emails from webpage
 
 const scrape = async (url) => {
   const res = await fetch(url);

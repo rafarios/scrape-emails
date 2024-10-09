@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "rafarios",
   "license": "ISC",
-  "description": "Scrape emails from url",
+  "description": "Scrape emails from website",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/rafarios/scrapeEmails.git"
